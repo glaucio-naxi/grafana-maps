@@ -1,0 +1,2696 @@
+[
+ {
+   "key": "PUF-C",
+   "latitude": "-26,208468",
+   "longitude": "-50,938068",
+   "name": "PR PUF POP-PR-PUF-C"
+ },
+ {
+   "key": "UVA-C",
+   "latitude": "-26,23025",
+   "longitude": "-51,08895",
+   "name": "PR UVA POP-PR-UVA-C"
+ },
+ {
+   "key": "UVA-SBR",
+   "latitude": "-26,227514",
+   "longitude": "-51,055259",
+   "name": "PR UVA POP-PR-UVA-SBR"
+ },
+ {
+   "key": "ADR-C",
+   "latitude": "-30,090378",
+   "longitude": "-51,729138",
+   "name": "RS ADR POP-RS-ADR-C"
+ },
+ {
+   "key": "AEM-C",
+   "latitude": "-27,65938",
+   "longitude": "-54,77015",
+   "name": "RS AEM POP-RS-AEM-C"
+ },
+ {
+   "key": "ALG-C",
+   "latitude": "-29,783028",
+   "longitude": "-55,796135",
+   "name": "RS ALG POP-RS-ALG-C"
+ },
+ {
+   "key": "AOD-C",
+   "latitude": "-28,85688",
+   "longitude": "-51,280746",
+   "name": "RS AOD POP-RS-AOD-C"
+ },
+ {
+   "key": "AOT-C",
+   "latitude": "-29,333499",
+   "longitude": "-53,089545",
+   "name": "RS AOT POP-RS-AOT-C"
+ },
+ {
+   "key": "ARMB-C",
+   "latitude": "-30,915038",
+   "longitude": "-51,505168",
+   "name": "RS ARMB POP-RS-ARMB-C"
+ },
+ {
+   "key": "ARMB-NSR",
+   "latitude": "-31,058575",
+   "longitude": "-51,51162",
+   "name": "RS ARMB POP-RS-ARMB-NSR"
+ },
+ {
+   "key": "ATY-C",
+   "latitude": "-28,971477",
+   "longitude": "-52,006373",
+   "name": "RS ATY POP-RS-ATY-C"
+ },
+ {
+   "key": "ATY-C-NOVO",
+   "latitude": "-28,971566",
+   "longitude": "-52,0062797",
+   "name": "RS ATY POP-RS-ATY-C-NOVO"
+ },
+ {
+   "key": "BGE-C",
+   "latitude": "-31,3303523",
+   "longitude": "-54,1017329",
+   "name": "RS BGE POP-RS-BGE-C"
+ },
+ {
+   "key": "BGV-C",
+   "latitude": "-29,163109",
+   "longitude": "-51,519572",
+   "name": "RS BGV POP-RS-BGV-C"
+ },
+ {
+   "key": "BGV-EJA",
+   "latitude": "-29,017435",
+   "longitude": "-51,553724",
+   "name": "RS BGV POP-RS-BGV-EJA"
+ },
+ {
+   "key": "BPR-C",
+   "latitude": "-29,487823",
+   "longitude": "-51,357883",
+   "name": "RS BPR POP-RS-BPR-C"
+ },
+ {
+   "key": "BRL-IMI",
+   "latitude": "-29,602484",
+   "longitude": "-51,942718",
+   "name": "RS BRL POP-RS-BRL-IMI"
+ },
+ {
+   "key": "BRO-C",
+   "latitude": "-30,293688",
+   "longitude": "-51,302689",
+   "name": "RS BRO POP-RS-BRO-C"
+ },
+ {
+   "key": "BSR-C",
+   "latitude": "-28,72765",
+   "longitude": "-54,914094",
+   "name": "RS BSR POP-RS-BSR-C"
+ },
+ {
+   "key": "CAM-C",
+   "latitude": "-30,853729",
+   "longitude": "-51,804499",
+   "name": "RS CAM POP-RS-CAM-C"
+ },
+ {
+   "key": "CAM-VSC",
+   "latitude": "-30,821072",
+   "longitude": "-51,722669",
+   "name": "RS CAM POP-RS-CAM-VSC"
+ },
+ {
+   "key": "CAN-ETV",
+   "latitude": "-29,906001",
+   "longitude": "-51,142294",
+   "name": "RS CAN POP-RS-CAN-ETV"
+ },
+ {
+   "key": "CAN-MAV",
+   "latitude": "-29,906708",
+   "longitude": "-51,204545",
+   "name": "RS CAN POP-RS-CAN-MAV"
+ },
+ {
+   "key": "CCR-C",
+   "latitude": "-30,018387",
+   "longitude": "-52,906164",
+   "name": "RS CCR POP-RS-CCR-C"
+ },
+ {
+   "key": "CEN-SOO",
+   "latitude": "-29,362046",
+   "longitude": "-50,825108",
+   "name": "RS CEN POP-RS-CEN-SOO"
+ },
+ {
+   "key": "CHN-VIA",
+   "latitude": "-29,914093",
+   "longitude": "-51,083279",
+   "name": "RS CHN POP-RS-CHN-VIA"
+ },
+ {
+   "key": "CHN-VMC",
+   "latitude": "-29,948474",
+   "longitude": "-51,098945",
+   "name": "RS CHN POP-RS-CHN-VMC"
+ },
+ {
+   "key": "CIJ-PMA",
+   "latitude": "-30,994458",
+   "longitude": "-52,051612",
+   "name": "RS CIJ POP-RS-CIJ-PMA"
+ },
+ {
+   "key": "CIO-C",
+   "latitude": "-28,284313",
+   "longitude": "-52,786354",
+   "name": "RS CIO POP-RS-CIO-C"
+ },
+ {
+   "key": "CLNS-C",
+   "latitude": "-29,388374",
+   "longitude": "-51,868822",
+   "name": "RS CLNS POP-RS-CLNS-C"
+ },
+ {
+   "key": "CPU-C",
+   "latitude": "-30,514606",
+   "longitude": "-53,489582",
+   "name": "RS CPU POP-RS-CPU-C"
+ },
+ {
+   "key": "CQI-C",
+   "latitude": "-29,883108",
+   "longitude": "-54,828056",
+   "name": "RS CQI POP-RS-CQI-C"
+ },
+ {
+   "key": "CQU-C",
+   "latitude": "-29,956385",
+   "longitude": "-51,627701",
+   "name": "RS CQU POP-RS-CQU-C"
+ },
+ {
+   "key": "CRR-C",
+   "latitude": "-28,14552",
+   "longitude": "-54,73987",
+   "name": "RS CRR POP-RS-CRR-C"
+ },
+ {
+   "key": "CSL-ANE",
+   "latitude": "-29,117455",
+   "longitude": "-51,114769",
+   "name": "RS CSL POP-RS-CSL-ANE"
+ },
+ {
+   "key": "CSL-C",
+   "latitude": "-29,165574",
+   "longitude": "-51,183634",
+   "name": "RS CSL POP-RS-CSL-C"
+ },
+ {
+   "key": "CSL-CEO",
+   "latitude": "-29,130963",
+   "longitude": "-51,177374",
+   "name": "RS CSL POP-RS-CSL-CEO"
+ },
+ {
+   "key": "CSL-DIA",
+   "latitude": "-29,158874",
+   "longitude": "-51,135057",
+   "name": "RS CSL POP-RS-CSL-DIA"
+ },
+ {
+   "key": "CSL-DRZ",
+   "latitude": "-29,184123",
+   "longitude": "-51,235775",
+   "name": "RS CSL POP-RS-CSL-DRZ"
+ },
+ {
+   "key": "CSL-EPN",
+   "latitude": "-29,193006",
+   "longitude": "-51,199603",
+   "name": "RS CSL POP-RS-CSL-EPN"
+ },
+ {
+   "key": "CSL-FAS",
+   "latitude": "-29,125852",
+   "longitude": "-51,014429",
+   "name": "RS CSL POP-RS-CSL-FAS"
+ },
+ {
+   "key": "CSL-PIX",
+   "latitude": "-29,161122",
+   "longitude": "-51,185296",
+   "name": "RS CSL POP-RS-CSL-PIX"
+ },
+ {
+   "key": "CSL-PNT2",
+   "latitude": "-29,177575",
+   "longitude": "-51,163911",
+   "name": "RS CSL POP-RS-CSL-PNT2"
+ },
+ {
+   "key": "CSX-BVT",
+   "latitude": "-28,567287",
+   "longitude": "-51,969305",
+   "name": "RS CSX POP-RS-CSX-BVT"
+ },
+ {
+   "key": "CXI-C",
+   "latitude": "-28,290091",
+   "longitude": "-54,63876",
+   "name": "RS CXI POP-RS-CXI-C"
+ },
+ {
+   "key": "CYG-C",
+   "latitude": "-27,94817",
+   "longitude": "-54,754594",
+   "name": "RS CYG POP-RS-CYG-C"
+ },
+ {
+   "key": "CYI-C",
+   "latitude": "-27,99093",
+   "longitude": "-54,83863",
+   "name": "RS CYI POP-RS-CYI-C"
+ },
+ {
+   "key": "CZA-C",
+   "latitude": "-28,643513",
+   "longitude": "-53,602507",
+   "name": "RS CZA POP-RS-CZA-C"
+ },
+ {
+   "key": "DMF-C",
+   "latitude": "-30,7028703",
+   "longitude": "-52,1084995",
+   "name": "RS DMF POP-RS-DMF-C"
+ },
+ {
+   "key": "DPO-C",
+   "latitude": "-30,98545",
+   "longitude": "-54,671254",
+   "name": "RS DPO POP-RS-DPO-C"
+ },
+ {
+   "key": "EIJ-C",
+   "latitude": "-28,37831",
+   "longitude": "-54,25921",
+   "name": "RS EIJ POP-RS-EIJ-C"
+ },
+ {
+   "key": "EIO-C",
+   "latitude": "-29,848327",
+   "longitude": "-51,175367",
+   "name": "RS EIO POP-RS-EIO-C"
+ },
+ {
+   "key": "EIO-PAM",
+   "latitude": "-29,849765",
+   "longitude": "-51,151902",
+   "name": "RS EIO POP-RS-EIO-PAM"
+ },
+ {
+   "key": "EPO-SJG",
+   "latitude": "-28,723945",
+   "longitude": "-52,844487",
+   "name": "RS EPO POP-RS-EPO-SJG"
+ },
+ {
+   "key": "ESU-BOR",
+   "latitude": "-30,123165",
+   "longitude": "-51,500336",
+   "name": "RS ESU POP-RS-ESU-BOR"
+ },
+ {
+   "key": "ESU-CVD",
+   "latitude": "-29,995256",
+   "longitude": "-51,305625",
+   "name": "RS ESU POP-RS-ESU-CVD"
+ },
+ {
+   "key": "ESU-PEO",
+   "latitude": "-30,100975",
+   "longitude": "-51,659058",
+   "name": "RS ESU POP-RS-ESU-PEO"
+ },
+ {
+   "key": "ESVE-C",
+   "latitude": "-29,179791",
+   "longitude": "-53,16811",
+   "name": "RS ESVE POP-RS-ESVE-C"
+ },
+ {
+   "key": "ETA-ORT",
+   "latitude": "-29,487145",
+   "longitude": "-51,958317",
+   "name": "RS ETA POP-RS-ETA-ORT"
+ },
+ {
+   "key": "ETD-C",
+   "latitude": "-29,238574",
+   "longitude": "-51,867992",
+   "name": "RS ETD POP-RS-ETD-C"
+ },
+ {
+   "key": "ETD-PNT",
+   "latitude": "-29,224607",
+   "longitude": "-51,887629",
+   "name": "RS ETD POP-RS-ETD-PNT"
+ },
+ {
+   "key": "EVA-UNI",
+   "latitude": "-29,66016",
+   "longitude": "-51,177959",
+   "name": "RS EVA POP-RS-EVA-UNI"
+ },
+ {
+   "key": "FCA-APA",
+   "latitude": "-29,029274",
+   "longitude": "-51,187907",
+   "name": "RS FCA POP-RS-FCA-APA"
+ },
+ {
+   "key": "FCA-SGO",
+   "latitude": "-29,087506",
+   "longitude": "-51,189379",
+   "name": "RS FCA POP-RS-FCA-SGO"
+ },
+ {
+   "key": "FIZ-C",
+   "latitude": "-29,451276",
+   "longitude": "-51,306434",
+   "name": "RS FIZ POP-RS-FIZ-C"
+ },
+ {
+   "key": "FRL-C",
+   "latitude": "-29,225238",
+   "longitude": "-51,347014",
+   "name": "RS FRL POP-RS-FRL-C"
+ },
+ {
+   "key": "FRL-VJA",
+   "latitude": "-29,135318",
+   "longitude": "-51,372198",
+   "name": "RS FRL POP-RS-FRL-VJA"
+ },
+ {
+   "key": "FZV-C",
+   "latitude": "-28,79593",
+   "longitude": "-53,23118",
+   "name": "RS FZV POP-RS-FZV-C"
+ },
+ {
+   "key": "FZVN-C",
+   "latitude": "-29,590543",
+   "longitude": "-51,825005",
+   "name": "RS FZVN POP-RS-FZVN-C"
+ },
+ {
+   "key": "GDO-C",
+   "latitude": "-29,375667",
+   "longitude": "-50,877296",
+   "name": "RS GDO POP-RS-GDO-C"
+ },
+ {
+   "key": "GLC-C",
+   "latitude": "-29,909128",
+   "longitude": "-51,766289",
+   "name": "RS GLC POP-RS-GLC-C"
+ },
+ {
+   "key": "GMS-C",
+   "latitude": "-28,15218",
+   "longitude": "-54,55037",
+   "name": "RS GMS POP-RS-GMS-C"
+ },
+ {
+   "key": "GRA-C",
+   "latitude": "-28,028935",
+   "longitude": "-54,349357",
+   "name": "RS GRA POP-RS-GRA-C"
+ },
+ {
+   "key": "GTI-C",
+   "latitude": "-29,9432487",
+   "longitude": "-50,9920613",
+   "name": "RS GTI POP-RS-GTI-C"
+ },
+ {
+   "key": "GUB-C",
+   "latitude": "-30,108038",
+   "longitude": "-51,315491",
+   "name": "RS GUB POP-RS-GUB-C"
+ },
+ {
+   "key": "GUB-CLC",
+   "latitude": "-30,119251",
+   "longitude": "-51,368847",
+   "name": "RS GUB POP-RS-GUB-CLC"
+ },
+ {
+   "key": "GUB-CLC2",
+   "latitude": "-30,125641",
+   "longitude": "-51,354806",
+   "name": "RS GUB POP-RS-GUB-CLC2"
+ },
+ {
+   "key": "GUB-JAI",
+   "latitude": "-30,152454",
+   "longitude": "-51,330929",
+   "name": "RS GUB POP-RS-GUB-JAI"
+ },
+ {
+   "key": "IBR-C",
+   "latitude": "-28,6310436",
+   "longitude": "-53,0922712",
+   "name": "RS IBR POP-RS-IBR-C"
+ },
+ {
+   "key": "IJH-C",
+   "latitude": "-29,573637",
+   "longitude": "-50,792615",
+   "name": "RS IJH POP-RS-IJH-C"
+ },
+ {
+   "key": "IJI-C",
+   "latitude": "-28,39104",
+   "longitude": "-53,91188",
+   "name": "RS IJI POP-RS-IJI-C"
+ },
+ {
+   "key": "IJI-GNSO",
+   "latitude": "-28,38922",
+   "longitude": "-53,93187",
+   "name": "RS IJI POP-RS-IJI-GNSO"
+ },
+ {
+   "key": "IJI-SGE",
+   "latitude": "-28,3889794",
+   "longitude": "-53,9277961",
+   "name": "RS IJI POP-RS-IJI-SGE"
+ },
+ {
+   "key": "IPF-C",
+   "latitude": "-28,818999",
+   "longitude": "-51,278857",
+   "name": "RS IPF POP-RS-IPF-C"
+ },
+ {
+   "key": "JCS-C",
+   "latitude": "-29,22759",
+   "longitude": "-53,682869",
+   "name": "RS JCS POP-RS-JCS-C"
+ },
+ {
+   "key": "JGI-C",
+   "latitude": "-29,492153",
+   "longitude": "-54,691057",
+   "name": "RS JGI POP-RS-JGI-C"
+ },
+ {
+   "key": "LJO-AME",
+   "latitude": "-29,456481",
+   "longitude": "-51,966993",
+   "name": "RS LJO POP-RS-LJO-AME"
+ },
+ {
+   "key": "LJO-FLO",
+   "latitude": "-29,451847",
+   "longitude": "-51,97232",
+   "name": "RS LJO POP-RS-LJO-FLO"
+ },
+ {
+   "key": "LJO-LJO",
+   "latitude": "-29,461347",
+   "longitude": "-51,965627",
+   "name": "RS LJO POP-RS-LJO-LJO"
+ },
+ {
+   "key": "LJO-MAB",
+   "latitude": "-29,467489",
+   "longitude": "-51,964102",
+   "name": "RS LJO POP-RS-LJO-MAB"
+ },
+ {
+   "key": "LJO-MOA",
+   "latitude": "-29,449044",
+   "longitude": "-52,003563",
+   "name": "RS LJO POP-RS-LJO-MOA"
+ },
+ {
+   "key": "LJO-OLA",
+   "latitude": "-29,435782",
+   "longitude": "-51,992053",
+   "name": "RS LJO POP-RS-LJO-OLA"
+ },
+ {
+   "key": "LJO-SCO",
+   "latitude": "-29,444215",
+   "longitude": "-51,960372",
+   "name": "RS LJO POP-RS-LJO-SCO"
+ },
+ {
+   "key": "LVL-C",
+   "latitude": "-30,81373",
+   "longitude": "-53,89786",
+   "name": "RS LVL POP-RS-LVL-C"
+ },
+ {
+   "key": "LVL-PRQ",
+   "latitude": "-30,78929",
+   "longitude": "-53,893882",
+   "name": "RS LVL POP-RS-LVL-PRQ"
+ },
+ {
+   "key": "MAPI-C",
+   "latitude": "-30,352831",
+   "longitude": "-51,584305",
+   "name": "RS MAPI POP-RS-MAPI-C"
+ },
+ {
+   "key": "MASU-C",
+   "latitude": "-29,32564",
+   "longitude": "-52,10138",
+   "name": "RS MASU POP-RS-MASU-C"
+ },
+ {
+   "key": "MGO-VDA",
+   "latitude": "-29,807713",
+   "longitude": "-51,498459",
+   "name": "RS MGO POP-RS-MGO-VDA"
+ },
+ {
+   "key": "MWM-C",
+   "latitude": "-29,166666",
+   "longitude": "-51,874832",
+   "name": "RS MWM POP-RS-MWM-C"
+ },
+ {
+   "key": "NBE-C",
+   "latitude": "-29,21378",
+   "longitude": "-52,03164",
+   "name": "RS NBE POP-RS-NBE-C"
+ },
+ {
+   "key": "NHO-CND",
+   "latitude": "-29,684636",
+   "longitude": "-51,098254",
+   "name": "RS NHO POP-RS-NHO-CND"
+ },
+ {
+   "key": "NHO-GUA",
+   "latitude": "-29,675168",
+   "longitude": "-51,130068",
+   "name": "RS NHO POP-RS-NHO-GUA"
+ },
+ {
+   "key": "NHO-IND",
+   "latitude": "-29,714886",
+   "longitude": "-51,128525",
+   "name": "RS NHO POP-RS-NHO-IND"
+ },
+ {
+   "key": "NHO-OPE",
+   "latitude": "-29,67025",
+   "longitude": "-51,141845",
+   "name": "RS NHO POP-RS-NHO-OPE"
+ },
+ {
+   "key": "NHO-PAN",
+   "latitude": "-29,693412",
+   "longitude": "-51,128813",
+   "name": "RS NHO POP-RS-NHO-PAN"
+ },
+ {
+   "key": "NHO-RIN",
+   "latitude": "-29,675503",
+   "longitude": "-51,150655",
+   "name": "RS NHO POP-RS-NHO-RIN"
+ },
+ {
+   "key": "NHO-SJG",
+   "latitude": "-29,669979",
+   "longitude": "-51,103617",
+   "name": "RS NHO POP-RS-NHO-SJG"
+ },
+ {
+   "key": "NOPD-C2",
+   "latitude": "-29,026861",
+   "longitude": "-51,311668",
+   "name": "RS NOPD POP-RS-NOPD-C2"
+ },
+ {
+   "key": "NRX-C",
+   "latitude": "-28,980641",
+   "longitude": "-51,407171",
+   "name": "RS NRX POP-RS-NRX-C"
+ },
+ {
+   "key": "NVSR-C",
+   "latitude": "-29,851625",
+   "longitude": "-51,272107",
+   "name": "RS NVSR POP-RS-NVSR-C"
+ },
+ {
+   "key": "PAE-APTR",
+   "latitude": "-30,019287",
+   "longitude": "-51,120381",
+   "name": "RS PAE POP-RS-PAE-APTR"
+ },
+ {
+   "key": "PAE-BLO",
+   "latitude": "-30,205318",
+   "longitude": "-51,171185",
+   "name": "RS PAE POP-RS-PAE-BLO"
+ },
+ {
+   "key": "PAE-BOV",
+   "latitude": "-30,028204",
+   "longitude": "-51,181161",
+   "name": "RS PAE POP-RS-PAE-BOV"
+ },
+ {
+   "key": "PAE-CAV",
+   "latitude": "-30,1026996",
+   "longitude": "-51,232864",
+   "name": "RS PAE POP-RS-PAE-CAV"
+ },
+ {
+   "key": "PAE-CHI",
+   "latitude": "-30,026295",
+   "longitude": "-51,222187",
+   "name": "RS PAE POP-RS-PAE-CHI"
+ },
+ {
+   "key": "PAE-CPS",
+   "latitude": "-30,024058",
+   "longitude": "-51,183935",
+   "name": "RS PAE POP-RS-PAE-CPS"
+ },
+ {
+   "key": "PAE-DCGO",
+   "latitude": "-30,03463",
+   "longitude": "-51,17705",
+   "name": "RS PAE POP-RS-PAE-DCGO"
+ },
+ {
+   "key": "PAE-ESN",
+   "latitude": "-30,145579",
+   "longitude": "-51,211877",
+   "name": "RS PAE POP-RS-PAE-ESN"
+ },
+ {
+   "key": "PAE-GVS",
+   "latitude": "-30,053591",
+   "longitude": "-51,222169",
+   "name": "RS PAE POP-RS-PAE-GVS"
+ },
+ {
+   "key": "PAE-HMTA",
+   "latitude": "-29,97998",
+   "longitude": "-51,18959",
+   "name": "RS PAE POP-RS-PAE-HMTA"
+ },
+ {
+   "key": "PAE-JDBT",
+   "latitude": "-30,05488",
+   "longitude": "-51,16384",
+   "name": "RS PAE POP-RS-PAE-JDBT"
+ },
+ {
+   "key": "PAE-PLNO",
+   "latitude": "-30,02137",
+   "longitude": "-51,18307",
+   "name": "RS PAE POP-RS-PAE-PLNO"
+ },
+ {
+   "key": "PAE-SAR",
+   "latitude": "-29,991658",
+   "longitude": "-51,134632",
+   "name": "RS PAE POP-RS-PAE-SAR"
+ },
+ {
+   "key": "PAE-VIND",
+   "latitude": "-30,02913",
+   "longitude": "-51,20838",
+   "name": "RS PAE POP-RS-PAE-VIND"
+ },
+ {
+   "key": "PAS-VSM",
+   "latitude": "-28,265183",
+   "longitude": "-52,382002",
+   "name": "RS PAS POP-RS-PAS-VSM"
+ },
+ {
+   "key": "PIBA-C",
+   "latitude": "-29,098555",
+   "longitude": "-51,450132",
+   "name": "RS PIBA POP-RS-PIBA-C"
+ },
+ {
+   "key": "PJA-C",
+   "latitude": "-28,424667",
+   "longitude": "-53,655861",
+   "name": "RS PJA POP-RS-PJA-C"
+ },
+ {
+   "key": "PLT-C",
+   "latitude": "-31,7613817",
+   "longitude": "-52,3394622",
+   "name": "RS PLT POP-RS-PLT-C"
+ },
+ {
+   "key": "PMB-PTN",
+   "latitude": "-28,30242",
+   "longitude": "-53,503773",
+   "name": "RS PMB POP-RS-PMB-PTN"
+ },
+ {
+   "key": "PTO-C",
+   "latitude": "-29,697256",
+   "longitude": "-51,236099",
+   "name": "RS PTO POP-RS-PTO-C"
+ },
+ {
+   "key": "PUC-C",
+   "latitude": "-27,85831",
+   "longitude": "-55,01914",
+   "name": "RS PUC POP-RS-PUC-C"
+ },
+ {
+   "key": "PUG-C",
+   "latitude": "-28,999945",
+   "longitude": "-52,158779",
+   "name": "RS PUG POP-RS-PUG-C"
+ },
+ {
+   "key": "PUV-C",
+   "latitude": "-29,17267",
+   "longitude": "-52,20608",
+   "name": "RS PUV POP-RS-PUV-C"
+ },
+ {
+   "key": "PVCZ-CTRA",
+   "latitude": "-27,73443",
+   "longitude": "-54,90055",
+   "name": "RS PVCZ POP-RS-PVCZ-CTRA"
+ },
+ {
+   "key": "PXR-FBR",
+   "latitude": "-27,90564",
+   "longitude": "-55,14005",
+   "name": "RS PXR POP-RS-PXR-FBR"
+ },
+ {
+   "key": "QZN-C",
+   "latitude": "-28,74268",
+   "longitude": "-53,09227",
+   "name": "RS QZN POP-RS-QZN-C"
+ },
+ {
+   "key": "RGZ-C",
+   "latitude": "-28,13217",
+   "longitude": "-55,02392",
+   "name": "RS RGZ POP-RS-RGZ-C"
+ },
+ {
+   "key": "RIP-SJO",
+   "latitude": "-29,980061",
+   "longitude": "-52,380337",
+   "name": "RS RIP POP-RS-RIP-SJO"
+ },
+ {
+   "key": "ROLA-C",
+   "latitude": "-28,257728",
+   "longitude": "-54,8175",
+   "name": "RS ROLA POP-RS-ROLA-C"
+ },
+ {
+   "key": "ROS-C",
+   "latitude": "-29,286798",
+   "longitude": "-51,872774",
+   "name": "RS ROS POP-RS-ROS-C"
+ },
+ {
+   "key": "ROS-C-NOVO",
+   "latitude": "-29,2873751",
+   "longitude": "-51,8718027",
+   "name": "RS ROS POP-RS-ROS-C-NOVO"
+ },
+ {
+   "key": "RRS-C",
+   "latitude": "-30,255891",
+   "longitude": "-54,919367",
+   "name": "RS RRS POP-RS-RRS-C"
+ },
+ {
+   "key": "RTE-C2",
+   "latitude": "-29,653315",
+   "longitude": "-50,57849",
+   "name": "RS RTE POP-RS-RTE-C2"
+ },
+ {
+   "key": "RVA-C2",
+   "latitude": "-29,111747",
+   "longitude": "-52,069866",
+   "name": "RS RVA POP-RS-RVA-C2"
+ },
+ {
+   "key": "SAN-C",
+   "latitude": "-28,297621",
+   "longitude": "-54,258199",
+   "name": "RS SAN POP-RS-SAN-C"
+ },
+ {
+   "key": "SAN-URI",
+   "latitude": "-28,28163",
+   "longitude": "-54,26653",
+   "name": "RS SAN POP-RS-SAN-URI"
+ },
+ {
+   "key": "SAV-C",
+   "latitude": "-30,8725329",
+   "longitude": "-53,1144728",
+   "name": "RS SAV POP-RS-SAV-C"
+ },
+ {
+   "key": "SCJ-C",
+   "latitude": "-29,08938",
+   "longitude": "-53,2143",
+   "name": "RS SCJ POP-RS-SCJ-C"
+ },
+ {
+   "key": "SCR-C",
+   "latitude": "-29,712959",
+   "longitude": "-52,432732",
+   "name": "RS SCR POP-RS-SCR-C"
+ },
+ {
+   "key": "SCS-C",
+   "latitude": "-28,972942",
+   "longitude": "-51,069364",
+   "name": "RS SCS POP-RS-SCS-C"
+ },
+ {
+   "key": "SDD-C",
+   "latitude": "-28,830743",
+   "longitude": "-52,512388",
+   "name": "RS SDD POP-RS-SDD-C"
+ },
+ {
+   "key": "SEE-C",
+   "latitude": "-30,168854",
+   "longitude": "-53,569944",
+   "name": "RS SEE POP-RS-SEE-C"
+ },
+ {
+   "key": "SESA-C2",
+   "latitude": "-30,463875",
+   "longitude": "-51,606188",
+   "name": "RS SESA POP-RS-SESA-C2"
+ },
+ {
+   "key": "SGB-BOV",
+   "latitude": "-30,338346",
+   "longitude": "-54,317625",
+   "name": "RS SGB POP-RS-SGB-BOV"
+ },
+ {
+   "key": "SGB-C",
+   "latitude": "-30,339279",
+   "longitude": "-54,317897",
+   "name": "RS SGB POP-RS-SGB-C"
+ },
+ {
+   "key": "SIA-C",
+   "latitude": "-28,40874",
+   "longitude": "-54,958657",
+   "name": "RS SIA POP-RS-SIA-C"
+ },
+ {
+   "key": "SIV-IBU",
+   "latitude": "-30,7268875",
+   "longitude": "-55,1473208",
+   "name": "RS SIV POP-RS-SIV-IBU"
+ },
+ {
+   "key": "SJO-C",
+   "latitude": "-29,960827",
+   "longitude": "-51,723431",
+   "name": "RS SJO POP-RS-SJO-C"
+ },
+ {
+   "key": "SKM-C",
+   "latitude": "-28,02305",
+   "longitude": "-54,936533",
+   "name": "RS SKM POP-RS-SKM-C"
+ },
+ {
+   "key": "SLE-C",
+   "latitude": "-29,77117",
+   "longitude": "-51,148618",
+   "name": "RS SLE POP-RS-SLE-C"
+ },
+ {
+   "key": "SLE-CPA",
+   "latitude": "-29,745346",
+   "longitude": "-51,155621",
+   "name": "RS SLE POP-RS-SLE-CPA"
+ },
+ {
+   "key": "SLE-FEI",
+   "latitude": "-29,757312",
+   "longitude": "-51,108265",
+   "name": "RS SLE POP-RS-SLE-FEI"
+ },
+ {
+   "key": "SLE-JAM",
+   "latitude": "-29,786525",
+   "longitude": "-51,132947",
+   "name": "RS SLE POP-RS-SLE-JAM"
+ },
+ {
+   "key": "SLE-SDM",
+   "latitude": "-29,750475",
+   "longitude": "-51,1478",
+   "name": "RS SLE POP-RS-SLE-SDM"
+ },
+ {
+   "key": "SLL-LOM",
+   "latitude": "-31,3637004",
+   "longitude": "-51,9778334",
+   "name": "RS SLL POP-RS-SLL-LOM"
+ },
+ {
+   "key": "SMA-NSF",
+   "latitude": "-29,6851789",
+   "longitude": "-53,8227095",
+   "name": "RS SMA POP-RS-SMA-NSF"
+ },
+ {
+   "key": "SMGR-C",
+   "latitude": "-30,34323",
+   "longitude": "-54,09796",
+   "name": "RS SMGR POP-RS-SMGR-C"
+ },
+ {
+   "key": "SPDB-CMIL",
+   "latitude": "-28,13095",
+   "longitude": "-54,89712",
+   "name": "RS SPDB POP-RS-SPDB-CMIL"
+ },
+ {
+   "key": "SPG-VLN",
+   "latitude": "-29,64304",
+   "longitude": "-50,987981",
+   "name": "RS SPG POP-RS-SPG-VLN"
+ },
+ {
+   "key": "SPS-BVT",
+   "latitude": "-29,803027",
+   "longitude": "-51,12745",
+   "name": "RS SPS POP-RS-SPS-BVT"
+ },
+ {
+   "key": "SPS-NOS",
+   "latitude": "-29,842688",
+   "longitude": "-51,1409",
+   "name": "RS SPS POP-RS-SPS-NOS"
+ },
+ {
+   "key": "SPS-PTN",
+   "latitude": "-29,81867",
+   "longitude": "-51,159023",
+   "name": "RS SPS POP-RS-SPS-PTN"
+ },
+ {
+   "key": "SRO-C",
+   "latitude": "-27,865124",
+   "longitude": "-54,474453",
+   "name": "RS SRO POP-RS-SRO-C"
+ },
+ {
+   "key": "SRO-CRU",
+   "latitude": "-27,85915",
+   "longitude": "-54,43726",
+   "name": "RS SRO POP-RS-SRO-CRU"
+ },
+ {
+   "key": "STC-ALMA",
+   "latitude": "-27,82415",
+   "longitude": "-54,7124",
+   "name": "RS STC POP-RS-STC-ALMA"
+ },
+ {
+   "key": "STC-BLNH",
+   "latitude": "-27,76952",
+   "longitude": "-54,71012",
+   "name": "RS STC POP-RS-STC-BLNH"
+ },
+ {
+   "key": "STC-C",
+   "latitude": "-27,82682",
+   "longitude": "-54,66658",
+   "name": "RS STC POP-RS-STC-C"
+ },
+ {
+   "key": "STC-SRIO",
+   "latitude": "-27,73938",
+   "longitude": "-54,73311",
+   "name": "RS STC POP-RS-STC-SRIO"
+ },
+ {
+   "key": "STC-VLJA",
+   "latitude": "-27,80325",
+   "longitude": "-54,82687",
+   "name": "RS STC POP-RS-STC-VLJA"
+ },
+ {
+   "key": "STO-C",
+   "latitude": "-29,19079",
+   "longitude": "-54,8685",
+   "name": "RS STO POP-RS-STO-C"
+ },
+ {
+   "key": "SVC-C",
+   "latitude": "-29,69187101",
+   "longitude": "-54,6779319",
+   "name": "RS SVC POP-RS-SVC-C"
+ },
+ {
+   "key": "SZM-TRVO",
+   "latitude": "-28,41171",
+   "longitude": "-54,57536",
+   "name": "RS SZM POP-RS-SZM-TRVO"
+ },
+ {
+   "key": "TABI-C",
+   "latitude": "-29,685509",
+   "longitude": "-51,716599",
+   "name": "RS TABI POP-RS-TABI-C"
+ },
+ {
+   "key": "TDU-C",
+   "latitude": "-27,75814",
+   "longitude": "-54,48272",
+   "name": "RS TDU POP-RS-TDU-C"
+ },
+ {
+   "key": "TDU-CTRS",
+   "latitude": "-27,65783",
+   "longitude": "-54,44052",
+   "name": "RS TDU POP-RS-TDU-CTRS"
+ },
+ {
+   "key": "TMI-C",
+   "latitude": "-27,780139",
+   "longitude": "-54,234467",
+   "name": "RS TMI POP-RS-TMI-C"
+ },
+ {
+   "key": "TPA-C",
+   "latitude": "-28,627652",
+   "longitude": "-52,871091",
+   "name": "RS TPA POP-RS-TPA-C"
+ },
+ {
+   "key": "TPS-C",
+   "latitude": "-30,675053",
+   "longitude": "-51,394758",
+   "name": "RS TPS POP-RS-TPS-C"
+ },
+ {
+   "key": "TQR-JAP",
+   "latitude": "-29,646175",
+   "longitude": "-50,784734",
+   "name": "RS TQR POP-RS-TQR-JAP"
+ },
+ {
+   "key": "TRF-BTO",
+   "latitude": "-29,868118",
+   "longitude": "-51,709484",
+   "name": "RS TRF POP-RS-TRF-BTO"
+ },
+ {
+   "key": "TRF-C",
+   "latitude": "-29,935733",
+   "longitude": "-51,715109",
+   "name": "RS TRF POP-RS-TRF-C"
+ },
+ {
+   "key": "TRF-PAR",
+   "latitude": "-29,876366",
+   "longitude": "-51,407393",
+   "name": "RS TRF POP-RS-TRF-PAR"
+ },
+ {
+   "key": "TRF-POB",
+   "latitude": "-29,89843",
+   "longitude": "-51,520859",
+   "name": "RS TRF POP-RS-TRF-POB"
+ },
+ {
+   "key": "TSS-C",
+   "latitude": "-29,514231",
+   "longitude": "-50,77645",
+   "name": "RS TSS POP-RS-TSS-C"
+ },
+ {
+   "key": "TUD-C",
+   "latitude": "-27,758132",
+   "longitude": "-54,482646",
+   "name": "RS TUD POP-RS-TUD-C"
+ },
+ {
+   "key": "TUI-C",
+   "latitude": "-29,797976",
+   "longitude": "-51,865871",
+   "name": "RS TUI POP-RS-TUI-C"
+ },
+ {
+   "key": "TUN-LGU",
+   "latitude": "-29,471775",
+   "longitude": "-51,808451",
+   "name": "RS TUN POP-RS-TUN-LGU"
+ },
+ {
+   "key": "UGN-C",
+   "latitude": "-29,756541",
+   "longitude": "-57,081764",
+   "name": "RS UGN POP-RS-UGN-C"
+ },
+ {
+   "key": "UGN-ODA",
+   "latitude": "-30,017223",
+   "longitude": "-56,434104",
+   "name": "RS UGN POP-RS-UGN-ODA"
+ },
+ {
+   "key": "VAA-C",
+   "latitude": "-28,503214",
+   "longitude": "-50,939365",
+   "name": "RS VAA POP-RS-VAA-C"
+ },
+ {
+   "key": "VAI-C",
+   "latitude": "-29,609768",
+   "longitude": "-52,192596",
+   "name": "RS VAI POP-RS-VAI-C"
+ },
+ {
+   "key": "VINV-C",
+   "latitude": "-30,343529",
+   "longitude": "-53,887589",
+   "name": "RS VINV POP-RS-VINV-C"
+ },
+ {
+   "key": "VNS-C",
+   "latitude": "-28,935324",
+   "longitude": "-51,549629",
+   "name": "RS VNS POP-RS-VNS-C"
+ },
+ {
+   "key": "VTMS-C",
+   "latitude": "-28,36487",
+   "longitude": "-54,50013",
+   "name": "RS VTMS POP-RS-VTMS-C"
+ },
+ {
+   "key": "ALY-C",
+   "latitude": "-27,410526",
+   "longitude": "-49,829679",
+   "name": "SC ALY POP-SC-ALY-C"
+ },
+ {
+   "key": "APK-C",
+   "latitude": "-27,038265",
+   "longitude": "-49,394384",
+   "name": "SC APK POP-SC-APK-C"
+ },
+ {
+   "key": "AQI-C",
+   "latitude": "-26,375618",
+   "longitude": "-48,720029",
+   "name": "SC AQI POP-SC-AQI-C"
+ },
+ {
+   "key": "AQI-ITG",
+   "latitude": "-26,414221",
+   "longitude": "-48,799497",
+   "name": "SC AQI POP-SC-AQI-ITG"
+ },
+ {
+   "key": "AQI-POG",
+   "latitude": "-26,40606",
+   "longitude": "-48,748795",
+   "name": "SC AQI POP-SC-AQI-POG"
+ },
+ {
+   "key": "ARU-C",
+   "latitude": "-28,936728",
+   "longitude": "-49,480334",
+   "name": "SC ARU POP-SC-ARU-C"
+ },
+ {
+   "key": "ASC-C",
+   "latitude": "-26,956656",
+   "longitude": "-49,376504",
+   "name": "SC ASC POP-SC-ASC-C"
+ },
+ {
+   "key": "ATR-C",
+   "latitude": "-26,932031",
+   "longitude": "-51,337125",
+   "name": "SC ATR POP-SC-ATR-C"
+ },
+ {
+   "key": "BCU-C",
+   "latitude": "-26,991805",
+   "longitude": "-48,637464",
+   "name": "SC BCU POP-SC-BCU-C"
+ },
+ {
+   "key": "BCU-ITP",
+   "latitude": "-27,03576",
+   "longitude": "-48,584157",
+   "name": "SC BCU POP-SC-BCU-ITP"
+ },
+ {
+   "key": "BCU-NAC",
+   "latitude": "-26,977186",
+   "longitude": "-48,639655",
+   "name": "SC BCU POP-SC-BCU-NAC"
+ },
+ {
+   "key": "BCU-NES",
+   "latitude": "-27,013138",
+   "longitude": "-48,61452",
+   "name": "SC BCU POP-SC-BCU-NES"
+ },
+ {
+   "key": "BDSL-C",
+   "latitude": "-26,460506",
+   "longitude": "-48,609648",
+   "name": "SC BDSL POP-SC-BDSL-C"
+ },
+ {
+   "key": "BGC-C",
+   "latitude": "-27,499902",
+   "longitude": "-48,652677",
+   "name": "SC BGC POP-SC-BGC-C"
+ },
+ {
+   "key": "BNU-AGV",
+   "latitude": "-26,908754",
+   "longitude": "-49,13847",
+   "name": "SC BNU POP-SC-BNU-AGV"
+ },
+ {
+   "key": "BNU-C",
+   "latitude": "-26,920868",
+   "longitude": "-49,064284",
+   "name": "SC BNU POP-SC-BNU-C"
+ },
+ {
+   "key": "BNU-FTZ",
+   "latitude": "-26,864997",
+   "longitude": "-49,05712",
+   "name": "SC BNU POP-SC-BNU-FTZ"
+ },
+ {
+   "key": "BNU-GCIA",
+   "latitude": "-26,946912",
+   "longitude": "-49,072178",
+   "name": "SC BNU POP-SC-BNU-GCIA"
+ },
+ {
+   "key": "BNU-ITVC",
+   "latitude": "-26,785499",
+   "longitude": "-49,086018",
+   "name": "SC BNU POP-SC-BNU-ITVC"
+ },
+ {
+   "key": "BNU-ITVC2",
+   "latitude": "-26,818699",
+   "longitude": "-49,088885",
+   "name": "SC BNU POP-SC-BNU-ITVC2"
+ },
+ {
+   "key": "BNU-ITVN",
+   "latitude": "-26,888168",
+   "longitude": "-49,077134",
+   "name": "SC BNU POP-SC-BNU-ITVN"
+ },
+ {
+   "key": "BNU-ITVZ",
+   "latitude": "-26,853795",
+   "longitude": "-49,130254",
+   "name": "SC BNU POP-SC-BNU-ITVZ"
+ },
+ {
+   "key": "BNU-PGS",
+   "latitude": "-26,973906",
+   "longitude": "-49,077649",
+   "name": "SC BNU POP-SC-BNU-PGS"
+ },
+ {
+   "key": "BNU-VCL",
+   "latitude": "-26,927283",
+   "longitude": "-49,120706",
+   "name": "SC BNU POP-SC-BNU-VCL"
+ },
+ {
+   "key": "BNU-VGM",
+   "latitude": "-26,915491",
+   "longitude": "-49,08508",
+   "name": "SC BNU POP-SC-BNU-VGM"
+ },
+ {
+   "key": "BNU-VLI",
+   "latitude": "-26,724793",
+   "longitude": "-49,067683",
+   "name": "SC BNU POP-SC-BNU-VLI"
+ },
+ {
+   "key": "BNU-VLN",
+   "latitude": "-26,904448",
+   "longitude": "-49,094548",
+   "name": "SC BNU POP-SC-BNU-VLN"
+ },
+ {
+   "key": "BNV-C",
+   "latitude": "-26,787022",
+   "longitude": "-49,365068",
+   "name": "SC BNV POP-SC-BNV-C"
+ },
+ {
+   "key": "BOMB-CTG",
+   "latitude": "-27,195279",
+   "longitude": "-48,499632",
+   "name": "SC BOMB POP-SC-BOMB-CTG"
+ },
+ {
+   "key": "BOMB-NPX",
+   "latitude": "-27,15349",
+   "longitude": "-48,510895",
+   "name": "SC BOMB POP-SC-BOMB-NPX"
+ },
+ {
+   "key": "BOR-C",
+   "latitude": "-28,339297",
+   "longitude": "-49,624672",
+   "name": "SC BOR POP-SC-BOR-C"
+ },
+ {
+   "key": "BQE-C",
+   "latitude": "-27,100043",
+   "longitude": "-48,916042",
+   "name": "SC BQE POP-SC-BQE-C"
+ },
+ {
+   "key": "BQE-CAT",
+   "latitude": "-27,02604",
+   "longitude": "-48,883597",
+   "name": "SC BQE POP-SC-BQE-CAT"
+ },
+ {
+   "key": "BQE-LMA",
+   "latitude": "-27,080842",
+   "longitude": "-48,862908",
+   "name": "SC BQE POP-SC-BQE-LMA"
+ },
+ {
+   "key": "BQE-MLU",
+   "latitude": "-27,122601",
+   "longitude": "-48,935869",
+   "name": "SC BQE POP-SC-BQE-MLU"
+ },
+ {
+   "key": "BQE-PTA",
+   "latitude": "-27,142728",
+   "longitude": "-48,920991",
+   "name": "SC BQE POP-SC-BQE-PTA"
+ },
+ {
+   "key": "BQE-SLZ",
+   "latitude": "-27,085125",
+   "longitude": "-48,913121",
+   "name": "SC BQE POP-SC-BQE-SLZ"
+ },
+ {
+   "key": "BQE-STS",
+   "latitude": "-27,075305",
+   "longitude": "-48,887837",
+   "name": "SC BQE POP-SC-BQE-STS"
+ },
+ {
+   "key": "BRTR-C",
+   "latitude": "-27,356557",
+   "longitude": "-49,882737",
+   "name": "SC BRTR POP-SC-BRTR-C"
+ },
+ {
+   "key": "BVH-C",
+   "latitude": "-26,638265",
+   "longitude": "-48,692918",
+   "name": "SC BVH POP-SC-BVH-C"
+ },
+ {
+   "key": "BVH-ITA",
+   "latitude": "-26,710222",
+   "longitude": "-48,689741",
+   "name": "SC BVH POP-SC-BVH-ITA"
+ },
+ {
+   "key": "BVR-C",
+   "latitude": "-27,198206",
+   "longitude": "-49,073168",
+   "name": "SC BVR POP-SC-BVR-C"
+ },
+ {
+   "key": "CBS-C",
+   "latitude": "-27,288185",
+   "longitude": "-50,577618",
+   "name": "SC CBS POP-SC-CBS-C"
+ },
+ {
+   "key": "CBW-ARE",
+   "latitude": "-27,026094",
+   "longitude": "-48,65502",
+   "name": "SC CBW POP-SC-CBW-ARE"
+ },
+ {
+   "key": "CBW-C",
+   "latitude": "-27,00513",
+   "longitude": "-48,641228",
+   "name": "SC BCU POP-SC-CBW-C"
+ },
+ {
+   "key": "CCO-DBV",
+   "latitude": "-27,098587",
+   "longitude": "-52,6186",
+   "name": "SC CCO POP-SC-CCO-DBV"
+ },
+ {
+   "key": "CDA-BRT",
+   "latitude": "-27,287323",
+   "longitude": "-51,868737",
+   "name": "SC CDA POP-SC-CDA-BRT"
+ },
+ {
+   "key": "CDA-C",
+   "latitude": "-27,235533",
+   "longitude": "-52,032165",
+   "name": "RS CXI POP-RS-CXI-C"
+ },
+ {
+   "key": "CDA-C2",
+   "latitude": "-27,228849",
+   "longitude": "-52,02642",
+   "name": "SC CDA POP-SC-CDA-C2"
+ },
+ {
+   "key": "CDA-CQN",
+   "latitude": "-27,226744",
+   "longitude": "-52,016943",
+   "name": "SC CDA POP-SC-CDA-CQN"
+ },
+ {
+   "key": "CDA-EST",
+   "latitude": "-27,217044",
+   "longitude": "-52,049056",
+   "name": "SC CDA POP-SC-CDA-EST"
+ },
+ {
+   "key": "CDA-PNT",
+   "latitude": "-27,160584",
+   "longitude": "-51,865307",
+   "name": "SC CDA POP-SC-CDA-PNT"
+ },
+ {
+   "key": "CDA-VLJ",
+   "latitude": "-27,24292",
+   "longitude": "-51,952736",
+   "name": "SC CDA POP-SC-CDA-VLJ"
+ },
+ {
+   "key": "CDR-C",
+   "latitude": "-26,7777",
+   "longitude": "-51,016451",
+   "name": "SC CDR POP-SC-CDR-C"
+ },
+ {
+   "key": "CLE-CNT",
+   "latitude": "-26,19496",
+   "longitude": "-49,273386",
+   "name": "SC CLE POP-SC-CLE-CNT"
+ },
+ {
+   "key": "CNI-C",
+   "latitude": "-26,184107",
+   "longitude": "-50,401102",
+   "name": "SC CNI POP-SC-CNI-C"
+ },
+ {
+   "key": "CNI-C2",
+   "latitude": "-26,172821",
+   "longitude": "-50,39078",
+   "name": "SC CNI POP-SC-CNI-C2"
+ },
+ {
+   "key": "COCL-C",
+   "latitude": "-28,600685",
+   "longitude": "-49,325366",
+   "name": "SC COCL POP-SC-COCL-C"
+ },
+ {
+   "key": "COU-C",
+   "latitude": "-26,427695",
+   "longitude": "-49,23993",
+   "name": "SC COU POP-SC-COU-C"
+ },
+ {
+   "key": "CUA-C2",
+   "latitude": "-28,669038",
+   "longitude": "-49,42205",
+   "name": "SC CUA POP-SC-CUA-C2"
+ },
+ {
+   "key": "CUA-MDM",
+   "latitude": "-28,664424",
+   "longitude": "-49,384786",
+   "name": "SC CUA POP-SC-CUA-MDM"
+ },
+ {
+   "key": "CUA-RMA-NOVO",
+   "latitude": "0",
+   "longitude": "0",
+   "name": "SC CUA POP-SC-CUA-RMA-NOVO"
+ },
+ {
+   "key": "CUA-SLZ",
+   "latitude": "-28,692902",
+   "longitude": "-49,379734",
+   "name": "SC CUA POP-SC-CUA-SLZ"
+ },
+ {
+   "key": "CUA-SNL",
+   "latitude": "-28,702127",
+   "longitude": "-49,42589",
+   "name": "SC CUA POP-SC-CUA-SNL"
+ },
+ {
+   "key": "DNM-C",
+   "latitude": "-26,986738",
+   "longitude": "-49,721442",
+   "name": "SC DNM POP-SC-DNM-C"
+ },
+ {
+   "key": "DPN-SLT",
+   "latitude": "-26,752964",
+   "longitude": "-49,456741",
+   "name": "SC DPN POP-SC-DPN-SLT"
+ },
+ {
+   "key": "FGO-C",
+   "latitude": "-27,028143",
+   "longitude": "-50,922518",
+   "name": "SC FGO POP-SC-FGO-C"
+ },
+ {
+   "key": "FNS-BEL",
+   "latitude": "-27,594392",
+   "longitude": "-48,550585",
+   "name": "SC FNS POP-SC-FNS-BEL"
+ },
+ {
+   "key": "FNS-C2",
+   "latitude": "-27,58676",
+   "longitude": "-48,549606",
+   "name": "SC FNS POP-SC-FNS-C2"
+ },
+ {
+   "key": "FNS-CAM",
+   "latitude": "-27,67246",
+   "longitude": "-48,506608",
+   "name": "SC FNS POP-SC-FNS-CAM"
+ },
+ {
+   "key": "FNS-CNV",
+   "latitude": "-27,429799",
+   "longitude": "-48,45956",
+   "name": "SC FNS POP-SC-FNS-CNV"
+ },
+ {
+   "key": "FNS-CPR",
+   "latitude": "-27,594542",
+   "longitude": "-48,595875",
+   "name": "SC FNS POP-SC-FNS-CPR"
+ },
+ {
+   "key": "FNS-CPR2",
+   "latitude": "-27,596955",
+   "longitude": "-48,590348",
+   "name": "SC FNS POP-SC-FNS-CPR2"
+ },
+ {
+   "key": "FNS-ING",
+   "latitude": "-27,439652",
+   "longitude": "-48,409771",
+   "name": "SC FNS POP-SC-FNS-ING"
+ },
+ {
+   "key": "FNS-MCZ",
+   "latitude": "-27,587399",
+   "longitude": "-48,5335",
+   "name": "SC FNS POP-SC-FNS-MCZ"
+ },
+ {
+   "key": "FNS-RTO",
+   "latitude": "-27,451956",
+   "longitude": "-48,4484",
+   "name": "SC FNS POP-SC-FNS-RTO"
+ },
+ {
+   "key": "FNS-TRD",
+   "latitude": "-27,593136",
+   "longitude": "-48,519581",
+   "name": "SC FNS POP-SC-FNS-TRD"
+ },
+ {
+   "key": "FNS-VMA",
+   "latitude": "-27,575043",
+   "longitude": "-48,509802",
+   "name": "SC FNS POP-SC-FNS-VMA"
+ },
+ {
+   "key": "GBR-C",
+   "latitude": "-27,085288",
+   "longitude": "-48,975893",
+   "name": "SC GBR POP-SC-GBR-C"
+ },
+ {
+   "key": "GBR-SUL",
+   "latitude": "-27,107306",
+   "longitude": "-49,004852",
+   "name": "SC GBR POP-SC-GBR-SUL"
+ },
+ {
+   "key": "GMM-C",
+   "latitude": "-26,473209",
+   "longitude": "-48,99564",
+   "name": "SC GMM POP-SC-GMM-C"
+ },
+ {
+   "key": "GMM-RBO",
+   "latitude": "-26,523647",
+   "longitude": "-48,981633",
+   "name": "SC GMM POP-SC-GMM-RBO"
+ },
+ {
+   "key": "GPR-BRC",
+   "latitude": "-26,994344",
+   "longitude": "-48,901925",
+   "name": "SC GPR POP-SC-GPR-BRC"
+ },
+ {
+   "key": "GPR-BVT",
+   "latitude": "-26,899501",
+   "longitude": "-49,010497",
+   "name": "SC GPR POP-SC-GPR-BVT"
+ },
+ {
+   "key": "GPR-C",
+   "latitude": "-26,929137",
+   "longitude": "-48,95323",
+   "name": "SC GPR POP-SC-GPR-C"
+ },
+ {
+   "key": "GPR-STZ",
+   "latitude": "-26,940808",
+   "longitude": "-48,933235",
+   "name": "SC GPR POP-SC-GPR-STZ"
+ },
+ {
+   "key": "GRB-C2",
+   "latitude": "-28,031267",
+   "longitude": "-48,622645",
+   "name": "SC GRB POP-SC-GRB-C2"
+ },
+ {
+   "key": "GRB-SNC",
+   "latitude": "-28,097911",
+   "longitude": "-48,675738",
+   "name": "SC GRB POP-SC-GRB-SNC"
+ },
+ {
+   "key": "GRV-C",
+   "latitude": "-26,027373",
+   "longitude": "-48,854827",
+   "name": "SC GRV POP-SC-GRV-C"
+ },
+ {
+   "key": "IAI-C",
+   "latitude": "-26,911906",
+   "longitude": "-48,660243",
+   "name": "SC IAI POP-SC-IAI-C"
+ },
+ {
+   "key": "IAI-CDI",
+   "latitude": "-26,88783",
+   "longitude": "-48,704142",
+   "name": "SC IAI POP-SC-IAI-CDI"
+ },
+ {
+   "key": "IAI-ESP",
+   "latitude": "-26,888104",
+   "longitude": "-48,738936",
+   "name": "SC IAI POP-SC-IAI-ESP"
+ },
+ {
+   "key": "IAI-ITV",
+   "latitude": "-26,945569",
+   "longitude": "-48,720735",
+   "name": "SC IAI POP-SC-IAI-ITV"
+ },
+ {
+   "key": "IAI-SVC",
+   "latitude": "-26,908873",
+   "longitude": "-48,704795",
+   "name": "SC IAI POP-SC-IAI-SVC"
+ },
+ {
+   "key": "IAI-VOP",
+   "latitude": "-26,906756",
+   "longitude": "-48,672251",
+   "name": "SC IAI POP-SC-IAI-VOP"
+ },
+ {
+   "key": "IDL-C",
+   "latitude": "-26,895424",
+   "longitude": "-49,234807",
+   "name": "SC IDL POP-SC-IDL-C"
+ },
+ {
+   "key": "IDL-CRJ",
+   "latitude": "-26,881495",
+   "longitude": "-49,233097",
+   "name": "SC IDL POP-SC-IDL-CRJ"
+ },
+ {
+   "key": "IDL-ECB",
+   "latitude": "-26,881765",
+   "longitude": "-49,175255",
+   "name": "SC IDL POP-SC-IDL-ECB"
+ },
+ {
+   "key": "IDL-NAC02",
+   "latitude": "-26,893456",
+   "longitude": "-49,250465",
+   "name": "SC IDL POP-SC-IDL-NAC02"
+ },
+ {
+   "key": "IDL-TPJ",
+   "latitude": "-26,909022",
+   "longitude": "-49,23673",
+   "name": "SC IDL POP-SC-IDL-TPJ"
+ },
+ {
+   "key": "IDL-WAR",
+   "latitude": "-26,946474",
+   "longitude": "-49,285799",
+   "name": "SC IDL POP-SC-IDL-WAR"
+ },
+ {
+   "key": "IEA-ASB",
+   "latitude": "-27,089692",
+   "longitude": "-48,615542",
+   "name": "SC IEA POP-SC-IEA-ASB"
+ },
+ {
+   "key": "IEA-C",
+   "latitude": "-27,128597",
+   "longitude": "-48,604067",
+   "name": "SC IEA POP-SC-IEA-C"
+ },
+ {
+   "key": "IEA-ILO2",
+   "latitude": "-27,081355",
+   "longitude": "-48,598536",
+   "name": "SC IEA POP-SC-IEA-ILO2"
+ },
+ {
+   "key": "IEA-MRT",
+   "latitude": "-27,12068",
+   "longitude": "-48,615189",
+   "name": "SC IEA POP-SC-IEA-MRT"
+ },
+ {
+   "key": "IES-C",
+   "latitude": "-26,239018",
+   "longitude": "-50,80293",
+   "name": "SC IES POP-SC-IES-C"
+ },
+ {
+   "key": "IIR-C",
+   "latitude": "-27,057561",
+   "longitude": "-49,517202",
+   "name": "SC IIR POP-SC-IIR-C"
+ },
+ {
+   "key": "ILO-C",
+   "latitude": "-26,898199",
+   "longitude": "-48,82547",
+   "name": "SC ILO POP-SC-ILO-C"
+ },
+ {
+   "key": "ILS-C",
+   "latitude": "-26,348847",
+   "longitude": "-49,907095",
+   "name": "SC ILS POP-SC-ILS-C"
+ },
+ {
+   "key": "ILS-IRA",
+   "latitude": "-26,450404",
+   "longitude": "-50,01134",
+   "name": "SC ILS POP-SC-ILS-IRA"
+ },
+ {
+   "key": "ILS-VTE",
+   "latitude": "-26,534101",
+   "longitude": "-49,85299",
+   "name": "SC ILS POP-SC-ILS-VTE"
+ },
+ {
+   "key": "IMA-BOV",
+   "latitude": "-28,33378",
+   "longitude": "-48,7319",
+   "name": "SC IMA POP-SC-IMA-BOV"
+ },
+ {
+   "key": "IMA-BRA",
+   "latitude": "-28,222085",
+   "longitude": "-48,709121",
+   "name": "SC IMA POP-SC-IMA-BRA"
+ },
+ {
+   "key": "IMA-C",
+   "latitude": "-28,238091",
+   "longitude": "-48,661907",
+   "name": "SC IMA POP-SC-IMA-C"
+ },
+ {
+   "key": "IMA-C-NOVO",
+   "latitude": "0",
+   "longitude": "0",
+   "name": "SC IMA POP-SC-IMA-C-NOVO"
+ },
+ {
+   "key": "IMA-IBI",
+   "latitude": "-28,125041",
+   "longitude": "-48,646633",
+   "name": "SC IMA POP-SC-IMA-IBI"
+ },
+ {
+   "key": "ITH-BMZ",
+   "latitude": "-26,125089",
+   "longitude": "-48,600739",
+   "name": "SC ITH POP-SC-ITH-BMZ"
+ },
+ {
+   "key": "ITH-C",
+   "latitude": "-26,071259",
+   "longitude": "-48,619102",
+   "name": "SC ITH POP-SC-ITH-C"
+ },
+ {
+   "key": "IUP-C",
+   "latitude": "-27,414798",
+   "longitude": "-49,604805",
+   "name": "SC IUP POP-SC-IUP-C"
+ },
+ {
+   "key": "IXA-PIN",
+   "latitude": "-27,275917",
+   "longitude": "-52,332748",
+   "name": "SC IXA POP-SC-IXA-PIN"
+ },
+ {
+   "key": "JCA-C",
+   "latitude": "-27,174507",
+   "longitude": "-51,5116",
+   "name": "SC JCA POP-SC-JCA-C"
+ },
+ {
+   "key": "JGS-AGV",
+   "latitude": "-26,468955",
+   "longitude": "-49,108501",
+   "name": "SC JGS POP-SC-JGS-AGV"
+ },
+ {
+   "key": "JGS-AMZ",
+   "latitude": "-26,464894",
+   "longitude": "-49,100827",
+   "name": "SC JGS POP-SC-JGS-AMZ"
+ },
+ {
+   "key": "JGS-BRC NOVO",
+   "latitude": "-26,517095",
+   "longitude": "-49,132384",
+   "name": "SC JGS POP-SC-JGS-BRC NOVO"
+ },
+ {
+   "key": "JGS-BRCO-NOVO",
+   "latitude": "0",
+   "longitude": "0",
+   "name": "SC JGS POP-SC-JGS-BRCO-NOVO"
+ },
+ {
+   "key": "JGS-C",
+   "latitude": "-26,476071",
+   "longitude": "-49,089489",
+   "name": "SC JGS POP-SC-JGS-C"
+ },
+ {
+   "key": "JGS-CCO",
+   "latitude": "-26,48424",
+   "longitude": "-49,112599",
+   "name": "SC JGS POP-SC-JGS-CCO"
+ },
+ {
+   "key": "JGS-NRU",
+   "latitude": "-26,451601",
+   "longitude": "-49,164869",
+   "name": "SC JGS POP-SC-JGS-NRU"
+ },
+ {
+   "key": "JGS-RCO",
+   "latitude": "-26,514316",
+   "longitude": "-49,121263",
+   "name": "SC JGS POP-SC-JGS-RCO"
+ },
+ {
+   "key": "JGS-RCO2",
+   "latitude": "-26,560454",
+   "longitude": "-49,133597",
+   "name": "SC JGS POP-SC-JGS-RCO2"
+ },
+ {
+   "key": "JGS-STO",
+   "latitude": "0",
+   "longitude": "0",
+   "name": "SC JGS POP-SC-JGS-STO"
+ },
+ {
+   "key": "JGS-TFM",
+   "latitude": "-26,484816",
+   "longitude": "-49,115738",
+   "name": "SC JGS POP-SC-JGS-TFM"
+ },
+ {
+   "key": "JGS-TRN",
+   "latitude": "-26,441564",
+   "longitude": "-49,138197",
+   "name": "SC JGS POP-SC-JGS-TRN"
+ },
+ {
+   "key": "JGS-VLL",
+   "latitude": "-26,48238",
+   "longitude": "-49,059078",
+   "name": "SC JGS POP-SC-JGS-VLL"
+ },
+ {
+   "key": "JGS-VLL-NOVO",
+   "latitude": "-26,4784685",
+   "longitude": "-49,058096",
+   "name": "SC JGS POP-SC-JGS-VLL-NOVO"
+ },
+ {
+   "key": "JGS-VLN",
+   "latitude": "-26,496662",
+   "longitude": "-49,087486",
+   "name": "SC JGS POP-SC-JGS-VLN"
+ },
+ {
+   "key": "JGS-VLN2",
+   "latitude": "-26,499696",
+   "longitude": "-49,081121",
+   "name": "SC JGS POP-SC-JGS-VLN2"
+ },
+ {
+   "key": "JVE-C",
+   "latitude": "-26,307156",
+   "longitude": "-48,841424",
+   "name": "SC JVE POP-SC-JVE-C"
+ },
+ {
+   "key": "JVE-COS",
+   "latitude": "-26,269222",
+   "longitude": "-48,862294",
+   "name": "SC JVE POP-SC-JVE-COS"
+ },
+ {
+   "key": "JVE-IRU",
+   "latitude": "-26,270737",
+   "longitude": "-48,811869",
+   "name": "SC JVE POP-SC-JVE-IRU"
+ },
+ {
+   "key": "JVE-ITA",
+   "latitude": "-26,340849",
+   "longitude": "-48,835371",
+   "name": "SC JVE POP-SC-JVE-ITA"
+ },
+ {
+   "key": "JVE-JDM",
+   "latitude": "-26,215841",
+   "longitude": "-48,820329",
+   "name": "SC JVE POP-SC-JVE-JDM"
+ },
+ {
+   "key": "JVE-PRG",
+   "latitude": "-26,344332",
+   "longitude": "-48,793109",
+   "name": "SC JVE POP-SC-JVE-PRG"
+ },
+ {
+   "key": "JVE-VLN2",
+   "latitude": "-26,286397",
+   "longitude": "-48,907002",
+   "name": "SC JVE POP-SC-JVE-VLN2"
+ },
+ {
+   "key": "KPO-C",
+   "latitude": "-27,587641",
+   "longitude": "-50,361315",
+   "name": "SC KPO POP-SC-KPO-C"
+ },
+ {
+   "key": "LAU-C",
+   "latitude": "-27,223214",
+   "longitude": "-49,734102",
+   "name": "SC LAU POP-SC-LAU-C"
+ },
+ {
+   "key": "LGA-JDM",
+   "latitude": "-28,441904",
+   "longitude": "-48,810785",
+   "name": "SC LGA POP-SC-LGA-JDM"
+ },
+ {
+   "key": "LGS-C",
+   "latitude": "-27,817469",
+   "longitude": "-50,327705",
+   "name": "SC LGS POP-SC-LGS-C"
+ },
+ {
+   "key": "LGS-C2",
+   "latitude": "-27,817461",
+   "longitude": "-50,326118",
+   "name": "SC LGS POP-SC-LGS-C2"
+ },
+ {
+   "key": "LGS-COR",
+   "latitude": "-27,810799",
+   "longitude": "-50,302379",
+   "name": "SC LGS POP-SC-LGS-COR"
+ },
+ {
+   "key": "LGS-GRJ",
+   "latitude": "-27,772408",
+   "longitude": "-50,285259",
+   "name": "SC LGS POP-SC-LGS-GRJ"
+ },
+ {
+   "key": "LGS-TKS",
+   "latitude": "-27,811099",
+   "longitude": "-50,363983",
+   "name": "SC LGS POP-SC-LGS-TKS"
+ },
+ {
+   "key": "LML-C",
+   "latitude": "-28,394875",
+   "longitude": "-49,396938",
+   "name": "SC LML POP-SC-LML-C"
+ },
+ {
+   "key": "LOS-C",
+   "latitude": "-27,165862",
+   "longitude": "-49,541776",
+   "name": "SC LOS POP-SC-LOS-C"
+ },
+ {
+   "key": "LUZE-C",
+   "latitude": "-27,129638",
+   "longitude": "-51,469618",
+   "name": "SC LUZE POP-SC-LUZE-C"
+ },
+ {
+   "key": "LZV-C",
+   "latitude": "-26,716958",
+   "longitude": "-48,901548",
+   "name": "SC LZV POP-SC-LZV-C"
+ },
+ {
+   "key": "MFA-C",
+   "latitude": "-26,113516",
+   "longitude": "-49,799136",
+   "name": "SC MFA POP-SC-MFA-C"
+ },
+ {
+   "key": "MFA-C2",
+   "latitude": "-26,1140012",
+   "longitude": "-49,8039502",
+   "name": "SC MFA POP-SC-MFA-C2"
+ },
+ {
+   "key": "MFU-C",
+   "latitude": "-28,654897",
+   "longitude": "-49,21326",
+   "name": "SC MFU POP-SC-MFU-C"
+ },
+ {
+   "key": "MJV-C",
+   "latitude": "-26,366861",
+   "longitude": "-50,327512",
+   "name": "SC MJV POP-SC-MJV-C"
+ },
+ {
+   "key": "MOT-C",
+   "latitude": "-26,45957",
+   "longitude": "-50,233714",
+   "name": "SC MOT POP-SC-MOT-C"
+ },
+ {
+   "key": "MSB-C",
+   "latitude": "-26,610629",
+   "longitude": "-49,006734",
+   "name": "SC MSB POP-SC-MSB-C"
+ },
+ {
+   "key": "MSB-PBO",
+   "latitude": "-26,637793",
+   "longitude": "-48,944183",
+   "name": "SC MSB POP-SC-MSB-PBO"
+ },
+ {
+   "key": "NVG-C",
+   "latitude": "-26,897526",
+   "longitude": "-48,647995",
+   "name": "SC NVG POP-SC-NVG-C"
+ },
+ {
+   "key": "NVG-DOM",
+   "latitude": "-26,873894",
+   "longitude": "-48,679481",
+   "name": "SC NVG POP-SC-NVG-DOM"
+ },
+ {
+   "key": "NVG-GRA",
+   "latitude": "-26,82965",
+   "longitude": "-48,628958",
+   "name": "SC NVG POP-SC-NVG-GRA"
+ },
+ {
+   "key": "NVT-C",
+   "latitude": "-27,286009",
+   "longitude": "-48,930267",
+   "name": "SC NVT POP-SC-NVT-C"
+ },
+ {
+   "key": "NZA-C",
+   "latitude": "-28,638991",
+   "longitude": "-49,502834",
+   "name": "SC NZA POP-SC-NZA-C"
+ },
+ {
+   "key": "NZA-CVO",
+   "latitude": "-28,663343",
+   "longitude": "-49,469123",
+   "name": "SC NZA POP-SC-NZA-CVO"
+ },
+ {
+   "key": "OLS-CDE",
+   "latitude": "-28,363621",
+   "longitude": "-49,284486",
+   "name": "SC OLS POP-SC-OLS-CDE"
+ },
+ {
+   "key": "OLS-RNO",
+   "latitude": "-28,336067",
+   "longitude": "-49,312038",
+   "name": "SC OLS POP-SC-OLS-RNO"
+ },
+ {
+   "key": "OTO-C",
+   "latitude": "-27,506426",
+   "longitude": "-50,108007",
+   "name": "SC OTO POP-SC-OTO-C"
+ },
+ {
+   "key": "PAC-AAR",
+   "latitude": "-27,680059",
+   "longitude": "-48,697911",
+   "name": "SC PAC POP-SC-PAC-AAR"
+ },
+ {
+   "key": "PAC-C",
+   "latitude": "-27,636508",
+   "longitude": "-48,649406",
+   "name": "SC PAC POP-SC-PAC-C"
+ },
+ {
+   "key": "PAC-RIO",
+   "latitude": "-27,669258",
+   "longitude": "-48,651021",
+   "name": "SC PAC POP-SC-PAC-RIO"
+ },
+ {
+   "key": "PAC-SSB",
+   "latitude": "-27,642637",
+   "longitude": "-48,695952",
+   "name": "SC PAC POP-SC-PAC-SSB"
+ },
+ {
+   "key": "PAIE-C",
+   "latitude": "-27,923433",
+   "longitude": "-50,099792",
+   "name": "SC PAIE POP-SC-PAIE-C"
+ },
+ {
+   "key": "PCX-C",
+   "latitude": "-26,734915",
+   "longitude": "-48,684607",
+   "name": "SC PCX POP-SC-PCX-C"
+ },
+ {
+   "key": "PDRO-C",
+   "latitude": "-28,807459",
+   "longitude": "-49,241814",
+   "name": "SC PDRO POP-SC-PDRO-C"
+ },
+ {
+   "key": "PEA-ESF",
+   "latitude": "-27,353561",
+   "longitude": "-50,312035",
+   "name": "SC PEA POP-SC-PEA-ESF"
+ },
+ {
+   "key": "PEL-C",
+   "latitude": "-27,156045",
+   "longitude": "-48,545472",
+   "name": "SC PEL POP-SC-PEL-C"
+ },
+ {
+   "key": "PEL-PRQ",
+   "latitude": "-27,159465",
+   "longitude": "-48,571302",
+   "name": "SC PEL POP-SC-PEL-PRQ"
+ },
+ {
+   "key": "PEN-C",
+   "latitude": "-26,774314",
+   "longitude": "-48,643348",
+   "name": "SC PEN POP-SC-PEN-C"
+ },
+ {
+   "key": "PEU-C",
+   "latitude": "-27,044543",
+   "longitude": "-49,619141",
+   "name": "SC PEU POP-SC-PEU-C"
+ },
+ {
+   "key": "POD-C",
+   "latitude": "-26,727443",
+   "longitude": "-49,179819",
+   "name": "SC POD POP-SC-POD-C"
+ },
+ {
+   "key": "POD-TRG",
+   "latitude": "-26,695887",
+   "longitude": "-49,159609",
+   "name": "SC POD POP-SC-POD-TRG"
+ },
+ {
+   "key": "PPV-C",
+   "latitude": "-26,405534",
+   "longitude": "-50,147326",
+   "name": "SC PPV POP-SC-PPV-C"
+ },
+ {
+   "key": "PUL-C",
+   "latitude": "-27,964993",
+   "longitude": "-48,681546",
+   "name": "SC PUL POP-SC-PUL-C"
+ },
+ {
+   "key": "PUO-C",
+   "latitude": "-27,259161",
+   "longitude": "-49,934317",
+   "name": "SC PUO POP-SC-PUO-C"
+ },
+ {
+   "key": "PXT-C",
+   "latitude": "-27,532972",
+   "longitude": "-49,698083",
+   "name": "SC PXT POP-SC-PXT-C"
+ },
+ {
+   "key": "RCD-C",
+   "latitude": "-26,738327",
+   "longitude": "-49,27441",
+   "name": "SC RCD POP-SC-RCD-C"
+ },
+ {
+   "key": "RCD-ROS",
+   "latitude": "-26,644334",
+   "longitude": "-49,331113",
+   "name": "SC RCD POP-SC-RCD-ROS"
+ },
+ {
+   "key": "RIN-VLN",
+   "latitude": "-26,245835",
+   "longitude": "-49,517146",
+   "name": "SC RIN POP-SC-RIN-VLN"
+ },
+ {
+   "key": "RIO-C",
+   "latitude": "-27,195422",
+   "longitude": "-49,793007",
+   "name": "SC RIO POP-SC-RIO-C"
+ },
+ {
+   "key": "ROD-C",
+   "latitude": "-26,922946",
+   "longitude": "-49,367617",
+   "name": "SC ROD POP-SC-ROD-C"
+ },
+ {
+   "key": "RSL-BRE",
+   "latitude": "-27,193193",
+   "longitude": "-49,602172",
+   "name": "SC RSL POP-SC-RSL-BRE"
+ },
+ {
+   "key": "RSL-BRG",
+   "latitude": "-27,247026",
+   "longitude": "-49,684747",
+   "name": "SC RSL POP-SC-RSL-BRG"
+ },
+ {
+   "key": "RSL-C",
+   "latitude": "-27,218708",
+   "longitude": "-49,646131",
+   "name": "SC RSL POP-SC-RSL-C"
+ },
+ {
+   "key": "RSL-FC",
+   "latitude": "-27,210061",
+   "longitude": "-49,652788",
+   "name": "SC RSL POP-SC-RSL-FC"
+ },
+ {
+   "key": "RSL-PAI",
+   "latitude": "-27,191802",
+   "longitude": "-49,62765",
+   "name": "SC RSL POP-SC-RSL-PAI"
+ },
+ {
+   "key": "SAR-C",
+   "latitude": "-27,150646",
+   "longitude": "-52,310202",
+   "name": "SC SAR POP-SC-SAR-C"
+ },
+ {
+   "key": "SBS-25",
+   "latitude": "-26,257819",
+   "longitude": "-49,386643",
+   "name": "SC SBS POP-SC-SBS-025"
+ },
+ {
+   "key": "SBS-BRA",
+   "latitude": "-26,229767",
+   "longitude": "-49,348574",
+   "name": "SC SBS POP-SC-SBS-BRA"
+ },
+ {
+   "key": "SBS-C",
+   "latitude": "-26,248746",
+   "longitude": "-49,38514",
+   "name": "SC SBS POP-SC-SBS-C"
+ },
+ {
+   "key": "SBS-CLN",
+   "latitude": "-26,236518",
+   "longitude": "-49,400534",
+   "name": "SC SBS POP-SC-SBS-CLN"
+ },
+ {
+   "key": "SCC-ECB",
+   "latitude": "-26,768798",
+   "longitude": "-50,351202",
+   "name": "SC SCC POP-SC-SCC-ECB"
+ },
+ {
+   "key": "SCH-C",
+   "latitude": "-26,410742",
+   "longitude": "-49,075296",
+   "name": "SC SCH POP-SC-SCH-C"
+ },
+ {
+   "key": "SCH-JPA",
+   "latitude": "-26,43225",
+   "longitude": "-49,06507",
+   "name": "SC SCH POP-SC-SCH-JPA"
+ },
+ {
+   "key": "SFS-C",
+   "latitude": "-26,241949",
+   "longitude": "-48,634759",
+   "name": "SC SFS POP-SC-SFS-C"
+ },
+ {
+   "key": "SGE-C",
+   "latitude": "-26,72932",
+   "longitude": "-53,519487",
+   "name": "SC SGE POP-SC-SGE-C"
+ },
+ {
+   "key": "SIE-C",
+   "latitude": "-28,595725",
+   "longitude": "-49,426257",
+   "name": "SC SIE POP-SC-SIE-C"
+ },
+ {
+   "key": "SIZ-C",
+   "latitude": "-27,69003",
+   "longitude": "-48,776949",
+   "name": "SC SIZ POP-SC-SIZ-C"
+ },
+ {
+   "key": "SJQ-C",
+   "latitude": "-28,28467",
+   "longitude": "-49,93636",
+   "name": "SC SJQ POP-SC-SJQ-C"
+ },
+ {
+   "key": "SJS-C",
+   "latitude": "-27,277329",
+   "longitude": "-48,853391",
+   "name": "SC SJS POP-SC-SJS-C"
+ },
+ {
+   "key": "SJS-C2",
+   "latitude": "-27,2761645",
+   "longitude": "-48,8509857",
+   "name": "SC SJS POP-SC-SJS-C2"
+ },
+ {
+   "key": "SLW-C",
+   "latitude": "-26,978947",
+   "longitude": "-49,998822",
+   "name": "SC SLW POP-SC-SLW-C"
+ },
+ {
+   "key": "SOO-FQA",
+   "latitude": "0",
+   "longitude": "0",
+   "name": "SC SOO POP-SC-SOO-FQA"
+ },
+ {
+   "key": "SOO-IPI",
+   "latitude": "-27,567752",
+   "longitude": "-48,626318",
+   "name": "SC SOO POP-SC-SOO-IPI"
+ },
+ {
+   "key": "SOO-KBS2",
+   "latitude": "-27,597048",
+   "longitude": "-48,615426",
+   "name": "SC SOO POP-SC-SOO-KBS2"
+ },
+ {
+   "key": "SOO-LSF",
+   "latitude": "-27,575323",
+   "longitude": "-48,67339",
+   "name": "SC SOO POP-SC-SOO-LSF"
+ },
+ {
+   "key": "SOO-PDG",
+   "latitude": "-27,565815",
+   "longitude": "-48,640718",
+   "name": "SC SOO POP-SC-SOO-PDG"
+ },
+ {
+   "key": "TAN-C",
+   "latitude": "-27,10323",
+   "longitude": "-51,24469",
+   "name": "SC TAN POP-SC-TAN-C"
+ },
+ {
+   "key": "TAO-C",
+   "latitude": "-27,117978",
+   "longitude": "-49,998001",
+   "name": "SC TAO POP-SC-TAO-C"
+ },
+ {
+   "key": "TBC-C",
+   "latitude": "-27,298651",
+   "longitude": "-49,793956",
+   "name": "SC TBC POP-SC-TBC-C"
+ },
+ {
+   "key": "TIJ-C",
+   "latitude": "-27,240748",
+   "longitude": "-48,635012",
+   "name": "SC TIJ POP-SC-TIJ-C"
+ },
+ {
+   "key": "TIO-CAP",
+   "latitude": "-26,814508",
+   "longitude": "-49,28247",
+   "name": "SC TIO POP-SC-TIO-CAP"
+ },
+ {
+   "key": "TIO-EST",
+   "latitude": "-26,832313",
+   "longitude": "-49,273395",
+   "name": "SC TIO POP-SC-TIO-EST"
+ },
+ {
+   "key": "TIO-HDN",
+   "latitude": "-26,849641",
+   "longitude": "-49,255957",
+   "name": "SC TIO POP-SC-TIO-HDN"
+ },
+ {
+   "key": "TIO-IDC",
+   "latitude": "-26,819334",
+   "longitude": "-49,272867",
+   "name": "SC TIO POP-SC-TIO-IDC"
+ },
+ {
+   "key": "TIO-NAC",
+   "latitude": "-26,810303",
+   "longitude": "-49,267664",
+   "name": "SC TIO POP-SC-TIO-NAC"
+ },
+ {
+   "key": "TIO-QTO",
+   "latitude": "-26,842137",
+   "longitude": "-49,255496",
+   "name": "SC TIO POP-SC-TIO-QTO"
+ },
+ {
+   "key": "TREV-C",
+   "latitude": "-28,50434",
+   "longitude": "-49,458724",
+   "name": "SC TREV POP-SC-TREV-C"
+ },
+ {
+   "key": "TRO-C2",
+   "latitude": "-28,485884",
+   "longitude": "-49,012806",
+   "name": "SC TRO POP-SC-TRO-C2"
+ },
+ {
+   "key": "TSB-C",
+   "latitude": "-26,1248102",
+   "longitude": "-50,3091834",
+   "name": "SC TSB POP-SC-TSB-C"
+ },
+ {
+   "key": "URP-C",
+   "latitude": "-27,954227",
+   "longitude": "-49,874936",
+   "name": "SC URP POP-SC-URP-C"
+ },
+ {
+   "key": "UUG-C",
+   "latitude": "-28,519696",
+   "longitude": "-49,321278",
+   "name": "SC UUG POP-SC-UUG-C"
+ },
+ {
+   "key": "UUI-C",
+   "latitude": "-27,991814",
+   "longitude": "-49,583704",
+   "name": "SC UUI POP-SC-UUI-C"
+ },
+ {
+   "key": "VII-C",
+   "latitude": "-27,005772",
+   "longitude": "-51,153595",
+   "name": "SC VII POP-SC-VII-C"
+ },
+ {
+   "key": "VII-STA",
+   "latitude": "-27,005455",
+   "longitude": "-51,1378",
+   "name": "SC VII POP-SC-VII-STA"
+ },
+ {
+   "key": "VRM-C",
+   "latitude": "-27,393374",
+   "longitude": "-49,361398",
+   "name": "SC VRM POP-SC-VRM-C"
+ },
+ {
+   "key": "WUM-C",
+   "latitude": "-26,926959",
+   "longitude": "-49,793319",
+   "name": "SC WUM POP-SC-WUM-C"
+ },
+ {
+   "key": "XVA-C",
+   "latitude": "-27,070314",
+   "longitude": "-52,340914",
+   "name": "SC XVA POP-SC-XVA-C"
+ },
+ {
+   "key": "XXM-C",
+   "latitude": "-26,960927",
+   "longitude": "-52,53637",
+   "name": "SC XXM POP-SC-XXM-C"
+ },
+ {
+   "key": "YCA-C",
+   "latitude": "-28,710689",
+   "longitude": "-49,302188",
+   "name": "SC YCA POP-SC-YCA-C"
+ },
+ {
+   "key": "YCA-PVS",
+   "latitude": "-28,685078",
+   "longitude": "-49,322918",
+   "name": "SC YCA POP-SC-YCA-PVS"
+ }
+]
